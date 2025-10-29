@@ -1,4 +1,8 @@
-
-teste/package-lock.json
-teste/package.json
-/node_modules
+node_modules
+.dist
+.vscode
+.DS_Store
+dist
+.env
+.env.*
+*.log
