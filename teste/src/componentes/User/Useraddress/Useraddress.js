@@ -122,7 +122,7 @@ const Useraddress = ({ handleregisterAddress }) => {
         }
       }
 
-      console.log(useraddress);
+
     return (
         <div className='modal-total'>
             {userId !== null && (
